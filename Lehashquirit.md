@@ -6,7 +6,7 @@
 | Name | Le hash qui rit |
 | Category   | Crypto |
 | Difficulty | :star: :star: |
-| Number of solves | >60 |
+| Number of solves | 61 |
 | Type | xor collisions on SHA256 |
 | Writeup by | htmb |
 
